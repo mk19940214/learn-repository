@@ -1,4 +1,3 @@
 # learn-repository
 学习资料
-To cope with cet-4,start by learning to use github.
-还是有点不懂。。。
+把现在编写的合并到主分支之后，这里的更改内容就消失了吗？
